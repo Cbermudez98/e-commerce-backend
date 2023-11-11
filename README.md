@@ -4,7 +4,7 @@
 This project aims to develop an e-commerce platform using technologies such as Express.js, MongoDB, PostgreSQL, Redis, and Docker. The platform allows users to purchase a variety of products. Users can register, manage their shopping carts by adding and removing items.
 
 ## Key Components
-1. **Image Microservice**:
+1. **[Image Microservice](https://github.com/Cbermudez98/e-commerce-image-microservice)**:
    - Create a microservice responsible for storing images and providing URLs for serving images.
 
 2. **Log Microservice**:
